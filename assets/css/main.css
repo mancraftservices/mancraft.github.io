@@ -2446,7 +2446,7 @@ input, select, textarea {
 
 	ul.no-bullets {
 		text-align: left;
-		list-style-type: none; /* Remove bullets */
+		list-style-type: square; /* Remove bullets */
 		padding: 0; /* Remove padding */
 		margin-left: 50px; /* Remove margins */
 	  }
