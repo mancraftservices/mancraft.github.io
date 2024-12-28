@@ -2450,3 +2450,12 @@ input, select, textarea {
 		padding: 0; /* Remove padding */
 		margin-left: 50px; /* Remove margins */
 	  }
+
+	
+	.imgfit {
+		padding-top: 5px;
+    max-width: 100%; /* Limits the width to the container's width */
+    max-height: 200px; /* Limits the height to a specific value */
+    object-fit: contain; /* Ensures the image fits within the box without distortion */
+  }
+
