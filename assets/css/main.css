@@ -174,12 +174,12 @@ input, select, textarea {
 		}
 
 	h2 {
-		font-size: 2em;
+		font-size: 1.25em;
 		letter-spacing: -0.015em;
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 1em;
 		letter-spacing: -0.015em;
 	}
 
@@ -209,7 +209,7 @@ input, select, textarea {
 	}
 
 		header > p {
-			font-size: 1.25em;
+			font-size: 1 em;
 			margin: 0;
 		}
 
